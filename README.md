@@ -29,4 +29,4 @@ Les données ont subi un processus de nettoyage rigoureux, comprenant :
 ## Tableau Dashboard
 Les résultats de notre analyse ont été synthétisés dans un tableau de bord interactif hébergé sur Tableau Public, offrant une interface conviviale pour explorer nos résultats et recommandations. Le tableau de bord comprend des visualisations géospatiales, des analyses de tendances et des métriques comparatives entre différentes régions et catégories de stations.
 
-[Voir le tableau de bord interactif sur Tableau Public](https://public.tableau.com/app/profile/joris.jan1237/viz/AssistanceforDisabledPeopleinFrenchSNCFStations/AssistanceforDisabledPeopleinFrenchSNCFStations)
+[Voir le tableau de bord interactif sur Tableau Public](https://public.tableau.com/app/profile/sofiane.a6231/viz/Assistance_aux_personnes_handicapes_dans_les_stations_franaises_SNCF/Dashboard1)
